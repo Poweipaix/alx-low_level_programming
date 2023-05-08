@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * Main - Resets function to 98
+ * reset_to_98 - Resets value to 98
+ * @n: parameter targeted
  * Return: 0
  */
 
